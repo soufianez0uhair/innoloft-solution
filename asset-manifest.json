@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/innoloft-solution/static/css/main.14e7e8c0.css",
-    "main.js": "/innoloft-solution/static/js/main.20295202.js",
+    "main.js": "/innoloft-solution/static/js/main.52cf2f36.js",
     "index.html": "/innoloft-solution/index.html",
     "main.14e7e8c0.css.map": "/innoloft-solution/static/css/main.14e7e8c0.css.map",
-    "main.20295202.js.map": "/innoloft-solution/static/js/main.20295202.js.map"
+    "main.52cf2f36.js.map": "/innoloft-solution/static/js/main.52cf2f36.js.map"
   },
   "entrypoints": [
     "static/css/main.14e7e8c0.css",
-    "static/js/main.20295202.js"
+    "static/js/main.52cf2f36.js"
   ]
 }
