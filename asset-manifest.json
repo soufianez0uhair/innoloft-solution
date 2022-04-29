@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/admin-innoloft/static/css/main.14e7e8c0.css",
+    "main.js": "/admin-innoloft/static/js/main.e5855a8c.js",
+    "index.html": "/admin-innoloft/index.html",
+    "main.14e7e8c0.css.map": "/admin-innoloft/static/css/main.14e7e8c0.css.map",
+    "main.e5855a8c.js.map": "/admin-innoloft/static/js/main.e5855a8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14e7e8c0.css",
+    "static/js/main.e5855a8c.js"
+  ]
+}
