@@ -10,7 +10,7 @@ import Product from './pages/Product'
 
 function App() {
   return (
-    <Router basename="innoloft-sol">
+    <Router basename="/innoloft-solution">
       <div className="App">
         <Header />
         <div className="main">
